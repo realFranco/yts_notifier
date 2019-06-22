@@ -46,9 +46,7 @@ The next requirements are include into the **requeriments.txt** file inside of t
 
 2. python-crontab
 
-3. selenium 3+
-
-4. boto3
+3. boto3
 
 ============
 Dependencies
