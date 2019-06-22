@@ -1,9 +1,9 @@
 {
-    "Source"        : "Notifier <franco@systemagency.com>",
+    "Source"        : "Notifier <email@email.com>",
     "TemplateName"  : "MVTemplate",
     "Subject"       : "New Yts Movies",
     "HtmlSource"    : "/TemplateTest.html",
-    "Recipents"     : ["f97gp1@gmail.com"],
-    "ReplyTo"       : "franco@systemagency.com",
-    "AWSReg"        : "us-west-2"
+    "Recipents"     : ["email@email.com"],
+    "ReplyTo"       : "email@email.com",
+    "AWSReg"        : ""
 }
